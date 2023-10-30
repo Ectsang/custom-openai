@@ -1,0 +1,6 @@
+name: oai 
+channels:
+  - defaults
+dependencies:
+  - python=3.11.6
+  - openai
